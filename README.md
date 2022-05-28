@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @bastr01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bastr01/bastr01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Como dijo un sabio:
+"Albion online es un mmorpg no lineal, en el que escribes tu propia historia sin limitarte a seguir un camino prefijado"
+-Albion online.
